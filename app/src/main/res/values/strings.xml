@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AKB_10119105_RyndraPPF_IF3</string>
+    <string name="aplikasi_komputasi_bergerak">Aplikasi Komputasi Bergerak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_nim">10119105</string>
+    <string name="profile_name">Ryndra Putra Pratama Firdaus</string>
+    <string name="profile_kelas">IF-3</string>
+    <string name="profile_description">Saya adalah salah seorang mahasiswa Teknik Informatika. Seseorang yang selalu menghadapi masalah dengan ketawa. Seseorang yang masih belum bisa membahagiakan orang tua. Seseorang yang punya cita-cita setinggi langit. Seseorang yang selalu mengikuti arus kehidupan. Seseorang yang masih ingin mencari dirinya siapa.</string>
+    <string name="full_name">Judul</string>
+    <string name="judul">Judul</string>
+    <string name="judul_label">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="catatan">Catatan</string>
+    <string name="title_activity_masuk">MasukActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88785239929",
+    "project_id": "uas-10119105",
+    "storage_bucket": "uas-10119105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88785239929:android:5eeb6e2c57d2bf7cdef9a8",
+        "android_client_info": {
+          "package_name": "com.ryndrappf.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88785239929-krkf3m380bqt6nh3g7kp3iorumfh4eg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjR177LllGai-7fmoeoCXrBhl5Q4zBRb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88785239929-krkf3m380bqt6nh3g7kp3iorumfh4eg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
